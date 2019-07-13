@@ -5,6 +5,6 @@ setup(
     packages=find_packages(),
     version='0.1.0',
     description='Detects if a picture is a cactus',
-    author='daniel',
+    author='cactus_group',
     license='MIT',
 )
