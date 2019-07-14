@@ -1,6 +1,7 @@
 # CactusID
 Identifies if a picture has a cactus in it.
 
+Date from https://www.kaggle.com/c/aerial-cactus-identification/overview
 
 Project Organization
 ------------
