@@ -1,0 +1,1 @@
+Data is from https://www.kaggle.com/c/aerial-cactus-identification/overview and is stored in the raw folder as raw data. Data is named train as the Kaggle folder is named, but will be split into train/validation/test sets.
