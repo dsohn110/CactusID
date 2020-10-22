@@ -6,6 +6,3 @@ Identifies if a picture has a cactus in it.
 
 Data from:
   https://www.kaggle.com/irvingvasquez/cactus-aerial-photos#validation_set.zip
-
-Useful Resource on Convolutional Neural Networks:
-https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/02_Convolutional_Neural_Network.ipynb
